@@ -6,7 +6,7 @@ tartuffe diantre camembert
 <html>            
 	    <title>Fruits</title>      
 	  </head>
-        <body>
+        <body background="yellow">
 		  <table align="center" cellspacing="30" width="100%" >
 		
 			<tr >
