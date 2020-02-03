@@ -2,7 +2,7 @@
 Just another repositor
 
 tartuffe diantre camembert
-
+qu'est-ce qui est jaune et qui attend ?
 <html>            
 	    <title>Fruits</title>      
 	  </head>
@@ -14,6 +14,9 @@ tartuffe diantre camembert
 				  <img src="fraise.jpeg" alt="fraise" border-style="groove">
 				</td>
 				<td width="25%" box-shadow: 6px 6px 0px #999;
+
+
+
 
 				<strong>Classic<strong>
 				</td>
