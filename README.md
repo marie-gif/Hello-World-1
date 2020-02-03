@@ -3,11 +3,7 @@ Just another repositor
 
 tartuffe diantre camembert
 
-
-<!DOCTYPE html>
-<html lang=FR>
-<meta charset="utf-8" />
-      <head>             
+<html>            
 	    <title>Fruits</title>      
 	  </head>
         <body>
