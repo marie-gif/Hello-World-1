@@ -2,7 +2,7 @@
 Just another repositor
 
 tartuffe diantre camembert
-qu'est-ce qui est jaune et qui attend ?
+qu'est-ce qui est jaune et qui attend ? li att quoi ?
 <html>            
 	    <title>Fruits</title>      
 	  </head>
